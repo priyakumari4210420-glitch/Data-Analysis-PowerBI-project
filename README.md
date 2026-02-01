@@ -1,4 +1,4 @@
-<img width="855" height="286" alt="image" src="https://github.com/user-attachments/assets/e2bff97e-c5f8-418f-8f48-e3e7dd732f69" /># Data-Analysis-PowerBI-project
+<img width="855" height="286" alt="image" src="https://github.com/user-attachments/assets/e2bff97e-c5f8-418f-8f48-e3e7dd732f69" /># Colorado_motor_vehicle_sales
 Analysis of Colorado motor vehicle sales data using python Jupyter Notebook and visualization libraries
 Colorado Motor Vehicle Sales Analysis
 
